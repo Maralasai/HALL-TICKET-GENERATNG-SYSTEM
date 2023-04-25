@@ -1,0 +1,23 @@
+#cv-form{
+   /*display: none;*/
+}
+
+.myimg{
+    /*border: 1px solid rgb(11, 10, 10);*/
+   
+    width: 110px;
+}
+
+.mmyimg{
+   /* border: 1px solid rgb(11, 10, 10);*/
+   
+    width: 60px;
+}
+
+
+#cv-template{
+    display: none;
+}
+
+
+
